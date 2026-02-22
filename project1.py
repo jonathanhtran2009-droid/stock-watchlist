@@ -1,6 +1,6 @@
 import yfinance as yf
-
 from datetime import datetime
+
 today = datetime.now().strftime("%Y-%m-%d")
 
 # Get Stock information from yfinance API
