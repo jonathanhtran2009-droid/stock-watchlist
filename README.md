@@ -27,10 +27,4 @@ Day High: $266.75
 Day Low: $262.45
 Volume: 36,884,993
 ```
-```
 
-Save it, then run these three commands:
-```
-git add .
-git commit -m "Add README"
-git push
